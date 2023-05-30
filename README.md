@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andr3Feijo&show_icons=true&locale=en&layout=compact" alt="Andr3Feijo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alsf30&show_icons=true&locale=en" alt="Andr3Feijo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andr3Feijo&show_icons=true&locale=en" alt="Andr3Feijo" /></p>
